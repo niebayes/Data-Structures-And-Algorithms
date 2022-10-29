@@ -11,6 +11,7 @@ My implementation for basic data structures and algorithms
 - [x] stack 
 - [x] queue
 - [x] double-ended queue (deque)
+- [x] priority queue
 - [x] circular buffer
 - [x] bitmap
 - [x] monotonic stack
@@ -46,6 +47,47 @@ My implementation for basic data structures and algorithms
 
 
 ## Algorithms
+
+### Algorithmic Thinking
+- [x] enumeration
+- [x] simulation
+- [x] recursion
+- [x] divide-and-conquer
+- [x] greedy
+- [x] dynamic programming
+
+### Miscellaneous algorithms
+- [x] binary search 
+- [x] backtracking
+- [x] memoized searching
+- [x] binary tree traversal
+  - [x] preorder
+  - [x] inorder
+  - [x] postorder
+  - [x] level-order  
+- [x] DFS
+- [x] BFS  
+- [x] presum
+- [x] difference
+- [x] double pointers
+- [x] read write pointers
+- [x] sliding window     
+
+### Sorting algorithms
+- [x] comparison-based sorting
+  - [x] selection sort
+  - [ ] insertion sort
+  - [ ] bubble sort
+  - [ ] merge sort
+  - [ ] heap sort
+  - [ ] quick sort
+- [ ] counting-based sorting
+  - [ ] counting sort
+
+### String algorithms
+- [ ] string matching
+  - [ ] rabin karp
+  - [ ] KMP
 
 ### Graph algorithms
 - [x] Graph Traversal
