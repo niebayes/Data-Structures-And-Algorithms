@@ -43,3 +43,36 @@ My implementation for basic data structures and algorithms
 ### Graph-based data structures
 - [x] adjacency list based graph
 - [x] adjacency matrix based graph
+
+
+## Algorithms
+
+### Graph algorithms
+- [x] Graph Traversal
+  - [x] DFS
+  - [x] BFS
+- [x] cycle detection for directed graph
+  - [x] DFS to detect back edge
+  - topological sorting (Kahn) to check if #visited vertices == #vertices
+- [x] cycle detection for undirected graph
+  - [x] DFS to detect back edge
+  - [x] union-find to iterate all edges
+- [x] connected components of undirected graph (CC)
+  - [x] DFS
+  - [x] union-find
+- [x] strongly connected components of directed graph (SCC)
+  - [x] Kosaraju
+- [x] topological sorting 
+  - [x] DFS 
+  - [x] BFS (Kahn)
+- [x] minimum/maximum Spanning Tree (MST)
+  - [x] Kruskal
+  - [x] Prim
+- [x] single source shortest path & source sink shortest path (SSSP)
+  - [x] BFS for unweighted graph or graph with uniform-weighted edges
+  - [x] Dijkstra for non-negative weighted graph
+  - [x] Bellman-Ford for weighted graph
+- [x] all pairs shortest path (APSP)
+  - [x] Floyd-Warshall
+- [x] bipartile graph check
+  - [x] alternated two coloring
