@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+main
+*.dSYM
+main.cc
+Makefile
+build
+.idea
+CMakeLists.txt
